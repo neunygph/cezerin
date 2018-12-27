@@ -1,0 +1,11 @@
+{"message":"Successfully connected to mongodb://neunygph:Jannguye11!@cluster0-shard-00-00-czxmu.mongodb.net:27017,cluster0-shard-00-01-czxmu.mongodb.net:27017,cluster0-shard-00-02-czxmu.mongodb.net:27017/demoshop?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true:27017/demoshop","level":"info"}
+{"message":"Store running at http://localhost:3000","level":"info"}
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"Store running at http://localhost:3000","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"API running at http://localhost:3001","level":"info"}
+{"message":"Store running at http://localhost:3000","level":"info"}
+{"message":"MongoDB connected successfully","level":"info"}
+{"message":"MongoDB reconnected","level":"info"}
